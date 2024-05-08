@@ -7,7 +7,7 @@ CALCULATOR APP
 import sys
 n1 = int(input("Enter operand_1: "))
 n2 = int(input("Enter a operand_2: "))
-op = input("Enter a valid Operator")
+op = input("Enter a valid Operator: ")
 result = 0
 
 #switch case
